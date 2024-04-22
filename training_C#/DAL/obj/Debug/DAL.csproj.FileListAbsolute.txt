@@ -1,0 +1,11 @@
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\bin\Debug\DAL.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\bin\Debug\DAL.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\bin\Debug\DTO.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\bin\Debug\DTO.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\obj\Debug\DAL.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\obj\Debug\DAL.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\bin\Debug\EPPlus.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\DAL\bin\Debug\EPPlus.xml

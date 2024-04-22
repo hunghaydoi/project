@@ -1,0 +1,13 @@
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\BUS.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\BUS.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\DAL.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\DTO.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\DAL.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\DTO.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\obj\Debug\BUS.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\obj\Debug\BUS.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\EPPlus.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\BUS\bin\Debug\EPPlus.xml

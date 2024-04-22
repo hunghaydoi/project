@@ -1,0 +1,9 @@
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\bin\Debug\DTO.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\bin\Debug\DTO.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\obj\Debug\DTO.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\obj\Debug\DTO.pdb
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\bin\Debug\EPPlus.dll
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\bin\Debug\EPPlus.xml
+C:\Users\I'm Hung\Documents\C#\training_C#\DTO\obj\Debug\DTO.csproj.Up2Date
